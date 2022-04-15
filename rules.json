@@ -66,19 +66,20 @@
 			},
 			"description": "m4gic",
 			"triggers": {
-				"username_text_match": {
-					"case_sensitive": true,
-					"mode": "contains",
-					"patterns": [
-						"m4gic"
-					]
-				},
 				"chatmsg_text_match": {
 					"case_sensitive": true,
 					"mode": "contains",
 					"patterns": [
 						"m4gic m4gic m4gic m4gic m4gic m4gic m4gic m4gic m4gic m4gic",
 						"(\n x 20)"
+					]
+				},
+				"mode": "match_all",
+				"username_text_match": {
+					"case_sensitive": true,
+					"mode": "contains",
+					"patterns": [
+						"m4gic"
 					]
 				}
 			}
@@ -95,8 +96,25 @@
 					"case_sensitive": true,
 					"mode": "contains",
 					"patterns": [
-						"WWW.LMAOBOX.​NET - BEST TF2 HACKS!",
+						"WWW.LMAOBOX.\u200bNET - BEST TF2 HACKS!",
 						"(\n x 104)"
+					]
+				}
+			}
+		},
+		{
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
+			"description": "Fuck Nemo",
+			"triggers": {
+				"username_text_match": {
+					"case_sensitive": true,
+					"mode": "contains",
+					"patterns": [
+						"Fuck Nemo"
 					]
 				}
 			}
