@@ -14,6 +14,7 @@ Gamer Burger AZAFF
 Default Bot 
 m4gic 
 LMAOBOX (Cheater)
+Fuck Nemo
 
 ### Contact
 If you would like to contact me please add me on Discord.
