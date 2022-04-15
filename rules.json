@@ -1,1 +1,80 @@
-
+{
+	"$schema": "https://raw.githubusercontent.com/PazerOP/tf2_bot_detector/master/schemas/v3/rules.schema.json",
+	"file_info": {
+		"authors": [
+			"Lozarth"
+		],
+		"description": "Custom rules list for TF2 Bot Detector.",
+		"title": "Lozarth's Rules List",
+		"update_url": "https://raw.githubusercontent.com/MonkoTubeYT/tbd-customrules/main/rules.json"
+	},
+	"rules": [
+		{
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
+			"description": "OMEGATRONIC",
+			"triggers": {
+				"avatar_match": [
+					{
+						"avatar_hash": "cd0f89d52d4febcdd980255e498a994b0e3a56a4"
+					}
+				]
+			}
+		},
+		{
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
+			"description": "Gamer Burger",
+			"triggers": {
+				"username_text_match": {
+					"case_sensitive": true,
+					"mode": "contains",
+					"patterns": [
+						"Gamer Burger AZAFF"
+					]
+				}
+			}
+		},
+		{
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
+			"description": "Default Bot (Namesteal)",
+			"triggers": {
+				"username_text_match": {
+					"case_sensitive": true,
+					"mode": "contains",
+					"patterns": [
+						"default bot"
+					]
+				}
+			}
+		},
+		{
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
+			"description": "m4gic",
+			"triggers": {
+				"username_text_match": {
+					"case_sensitive": true,
+					"mode": "contains",
+					"patterns": [
+						"m4gic"
+					]
+				}
+				
+			}
+		}
+	]
+}
