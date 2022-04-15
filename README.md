@@ -6,6 +6,14 @@ This is a custom rules.json file for [TF2 Bot Detector](https://github.com/Pazer
 ### How can I use it?
 You can use the rules.json file by downloading it and moving it to your cfg folder where tf2_bot_detector.exe is located.
 
+### How many bots does this detect?
+Current Bot Detection |
+------------- | 
+OMEGATRONIC 
+Gamer Burger AZAFF 
+Default Bot 
+m4gic 
+
 ### Contact
 If you would like to contact me please add me on Discord.
 **Lozarth#4948**
