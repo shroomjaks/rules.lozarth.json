@@ -72,9 +72,34 @@
 					"patterns": [
 						"m4gic"
 					]
+				},
+				"chatmsg_text_match": {
+					"case_sensitive": true,
+					"mode": "contains",
+					"patterns": [
+						"m4gic m4gic m4gic m4gic m4gic m4gic m4gic m4gic m4gic m4gic",
+						"(\n x 20)"
+					]
 				}
-				
 			}
-		}
+		},
+		{
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
+			"description": "LMAOBOX Loser",
+			"triggers": {
+				"chatmsg_text_match": {
+					"case_sensitive": true,
+					"mode": "contains",
+					"patterns": [
+						"WWW.LMAOBOX.​NET - BEST TF2 HACKS!",
+						"(\n x 104)"
+					]
+				}
+			}
+		},
 	]
 }
