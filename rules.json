@@ -47,7 +47,7 @@
 					"cheater"
 				]
 			},
-			"description": "Default Bot/Namesteal (Namesteal)",
+			"description": "Default Bot/Namesteal",
 			"triggers": {
 				"username_text_match": {
 					"case_sensitive": true,
