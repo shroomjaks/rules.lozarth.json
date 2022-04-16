@@ -1,4 +1,4 @@
-# tbd-customrules
+# tf2bd-customrules
 
 ### What is this?
 This is a custom rules.json file for [TF2 Bot Detector](https://github.com/PazerOP/tf2_bot_detector "TF2 Bot Detector").
