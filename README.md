@@ -16,7 +16,7 @@ m4gic
 LMAOBOX (Cheater)
 Fuck Nemo
 braaap
-GNU
+GNU Bot
 
 ### Contact
 If you would like to contact me please add me on Discord.
