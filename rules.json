@@ -6,7 +6,7 @@
 		],
 		"description": "Custom rules list for TF2 Bot Detector.",
 		"title": "Lozarth's Rules List",
-		"update_url": "https://github.com/MonkoTubeYT/tf2bd-lozarthsrules/raw/main/rules.json"
+		"update_url": "https://raw.githubusercontent.com/MonkoTubeYT/tf2bd-lozarthsrules/main/rules.json"
 	},
 	"rules": [
 		{
@@ -116,6 +116,23 @@
 					"mode": "contains",
 					"patterns": [
 						"Fuck Nemo"
+					]
+				}
+			}
+		},
+		{
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
+			"description": "braaap",
+			"triggers": {
+				"username_text_match": {
+					"case_sensitive": true,
+					"mode": "contains",
+					"patterns": [
+						"braaaap"
 					]
 				}
 			}
