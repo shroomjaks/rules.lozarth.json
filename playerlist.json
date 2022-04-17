@@ -5,7 +5,8 @@
 			"Lozarth"
 		],
 		"description": "A list of 300+ bots and cheaters.",
-		"title": "Lozarth's Bot & Cheater List"
+		"title": "Lozarth's Bot & Cheater List",
+		"update_url": "https://raw.githubusercontent.com/MonkoTubeYT/tf2bd-lozarthsrules/main/playerlist.json"
 	},
 	"players": [
 		{
@@ -207,6 +208,15 @@
 				"time": 1649838092
 			},
 			"steamid": "[U:1:1024201619]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1650189534
+			},
+			"steamid": "[U:1:1072854112]"
 		},
 		{
 			"attributes": [
@@ -453,8 +463,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "Wireframe\u202c\r",
-				"time": 1648567224
+				"player_name": "Abdulestrayayo \u200fHamudolamamay",
+				"time": 1650189208
 			},
 			"steamid": "[U:1:1139823754]"
 		},
@@ -503,8 +513,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "a\u200fdrian.\r",
-				"time": 1650188178
+				"player_name": "Hero Smashe\u200fr\r",
+				"time": 1650189184
 			},
 			"steamid": "[U:1:1140013029]"
 		},
@@ -643,8 +653,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "Zerdark\u200f\r",
-				"time": 1650166313
+				"player_name": "Trumptard\u200f\r",
+				"time": 1650189258
 			},
 			"steamid": "[U:1:1140795903]"
 		},
@@ -693,8 +703,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "Ric\u200fky Spanish\r",
-				"time": 1649280778
+				"player_name": "E\u200flizabeth\r",
+				"time": 1650189282
 			},
 			"steamid": "[U:1:1140902640]"
 		},
@@ -837,6 +847,16 @@
 				"time": 1649915359
 			},
 			"steamid": "[U:1:1141137098]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "KING CRI\u200fMSON\r",
+				"time": 1650189233
+			},
+			"steamid": "[U:1:1141142431]"
 		},
 		{
 			"attributes": [
@@ -1859,8 +1879,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "DELL\u200f\r",
-				"time": 1650188264
+				"player_name": "Orig\u200fin\r",
+				"time": 1650189529
 			},
 			"steamid": "[U:1:1215369207]"
 		},
@@ -2159,8 +2179,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "yeayeb695clements\u200f\r",
-				"time": 1649188865
+				"player_name": "Johnny \u200fLaRue\r",
+				"time": 1650189954
 			},
 			"steamid": "[U:1:1216410326]"
 		},
@@ -2179,8 +2199,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "Loz\u200farth\r",
-				"time": 1649838092
+				"player_name": "LexxiMeo\u200fww\r",
+				"time": 1650189972
 			},
 			"steamid": "[U:1:1216504284]"
 		},
@@ -2289,8 +2309,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "How \u200fcan I get out of here ?\r",
-				"time": 1649188929
+				"player_name": "Her\u200fo Smasher\r",
+				"time": 1650188901
 			},
 			"steamid": "[U:1:1217052882]"
 		},
