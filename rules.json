@@ -147,7 +147,17 @@
 			"triggers": {
 				"avatar_match": [
 					{
-						"avatar_hash": "17774888a8bc351a78abfd0dccc1c94de532a644"
+						"avatar_hash": "17774888a8bc351a78abfd0dccc1c94de532a644",
+						"avatar_hash": "d61b3d86fe838e90d9721d46daead7fdab974079",
+						"avatar_hash": "fd936f48b129b379f2629231fd6a67d8aeda2531",
+						"avatar_hash": "978959ef76b3526110a4639b3e23d6cc120fa256",
+						"avatar_hash": "8916bd1dc5249904fb6ea4a9639e45310bf9d249",
+						"avatar_hash": "1b0eb035a2ef727a022bac37a93ff825a343629d",
+						"avatar_hash": "3db8d679da54ddf8c3ceb881ded3a2eb719a44d3",
+						"avatar_hash": "db1539c9213d397a594bd070bcf9ee694934a749",
+						"avatar_hash": "94cadb5e3e41b1c3e271c7c0e9e2d3e82cd6dba6",
+						"avatar_hash": "e7703d3f480a45784658160fbdbca5b173399c23",
+						"avatar_hash": "0fa37c2605d48da283e4891bb39290399d677c20"
 					}
 				]
 			}
