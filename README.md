@@ -9,15 +9,15 @@ You can use the json files by downloading them and moving them to your cfg folde
 ### How many bots does this detect?
 Current Bot Detection |
 ------------- | 
-OMEGATRONIC 
-Gamer Burger AZAFF 
+OMEGATRONIC
+Gamer Burger AZAFF
 Default Bot / Namesteal
-m4gic 
+m4gic
 LMAOBOX (Cheater)
 Fuck Nemo
 braaap
-GNU
-Doctor Sex
+GNU PFP Bots (no real name)
+doctor sex
 
 ### Contact
 If you would like to contact me please add me on Discord.
