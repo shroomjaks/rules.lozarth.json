@@ -136,6 +136,21 @@
 					]
 				}
 			}
+		},
+		{
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
+			"description": "GNU Bot",
+			"triggers": {
+				"avatar_match": [
+					{
+						"avatar_hash": "17774888a8bc351a78abfd0dccc1c94de532a644"
+					}
+				]
+			}
 		}
 	]
 }
