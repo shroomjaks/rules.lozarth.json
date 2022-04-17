@@ -16,7 +16,7 @@ m4gic
 LMAOBOX (Cheater)
 Fuck Nemo
 braaap
-GNU PFP Bots (no real name)
+GNU PFP Bots (no real name, hard to detect due to slight profile picture size variation and no other identifiable features)
 doctor sex
 
 ### Contact
