@@ -21,7 +21,7 @@ doctor sex
 Lesshook
 
 ### Special Thanks
-Special thanks to jamming joseph#2490 for informing me about renaming the files to "playerlist.lozarth.json" and "rules.lozarth.json" and reminding me to change the update url.
+Special thanks to **jamming joseph#2490** for informing me about renaming the files to "playerlist.lozarth.json" and "rules.lozarth.json" and reminding me to change the update url.
 
 ### Contact
 If you would like to contact me please add me on Discord.
