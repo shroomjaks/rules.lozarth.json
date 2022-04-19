@@ -1,7 +1,5 @@
 # tf2bd-lozarthsrules
 
-<img src="https://i.imgur.com/EMTdLpp.png" width=500>
-
 ### What is this?
 This is a **rules.json** and **playerlist.json** file for [TF2 Bot Detector](https://github.com/PazerOP/tf2_bot_detector "TF2 Bot Detector").
 
