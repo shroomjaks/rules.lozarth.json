@@ -21,7 +21,6 @@ doctor sex
 Lesshook
 
 ### Discord
-You can join the Discord below
 https://discord.gg/H8ZdX8mc3Z
 
 ### Special Thanks
