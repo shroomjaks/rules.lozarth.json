@@ -181,15 +181,14 @@
 					{
 						"avatar_hash": "973ecb46141e3cd3976c1f3b8603d11a6b3cdaef"
 					}
-				]
+				],
 				"personaname_text_match": {
 					"case_sensitive": true,
 					"mode": "contains",
 					"patterns": [
 						"brought to you by lesshook"
 					]
-				},
-				
+				}
 			}
 		}
 	]
