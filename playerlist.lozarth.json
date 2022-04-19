@@ -4,9 +4,9 @@
 		"authors": [
 			"Lozarth"
 		],
-		"description": "A list of 350+ bots and cheaters.",
+		"description": "A list of 300+ bots and cheaters.",
 		"title": "Lozarth's Bot & Cheater List",
-		"update_url": "https://raw.githubusercontent.com/Lozarth/tf2bd-lozarthsrules/main/playerlist.lozarth.json"
+		"update_url": "https://raw.githubusercontent.com/Lozarth/tf2bd-lozarthsrules/main/playerlist.json"
 	},
 	"players": [
 		{
@@ -65,7 +65,7 @@
 			],
 			"last_seen": {
 				"player_name": "www.myg0t.win",
-				"time": 1650008518
+				"time": 1650359171
 			},
 			"steamid": "[U:1:176522703]"
 		},
@@ -233,6 +233,16 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "www.myg0t.win",
+				"time": 1650341919
+			},
+			"steamid": "[U:1:1118803078]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "(3)www.myg0t.win",
 				"time": 1650012464
 			},
@@ -297,6 +307,45 @@
 				"time": 1650072537
 			},
 			"steamid": "[U:1:1119260218]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "tf 2cun tsu pport.cf",
+				"time": 1650342222
+			},
+			"steamid": "[U:1:1123823718]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "tf2cun ts uppor t.cf",
+				"time": 1650341695
+			},
+			"steamid": "[U:1:1123895172]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "t f2cu sup port.cf",
+				"time": 1650341755
+			},
+			"steamid": "[U:1:1124052695]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1650341690
+			},
+			"steamid": "[U:1:1126104911]"
 		},
 		{
 			"attributes": [
@@ -423,6 +472,15 @@
 				"cheater"
 			],
 			"last_seen": {
+				"time": 1650359360
+			},
+			"steamid": "[U:1:1132832969]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "(1)www.myg0t.win",
 				"time": 1648999971
 			},
@@ -503,8 +561,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "Cinders\u200f\r",
-				"time": 1649188936
+				"player_name": "A_Literal_Rubix_Cub\u200fe\r",
+				"time": 1650344803
 			},
 			"steamid": "[U:1:1139959716]"
 		},
@@ -523,8 +581,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "Camil\u200fo9021\r",
-				"time": 1650202772
+				"player_name": "iampony2 I'\u200fam Dangerous\r",
+				"time": 1650343876
 			},
 			"steamid": "[U:1:1139979151]"
 		},
@@ -593,8 +651,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "hes\u200fNoAlexander\r",
-				"time": 1650240305
+				"player_name": "ShibaTr\u200fon\r",
+				"time": 1650341919
 			},
 			"steamid": "[U:1:1140071938]"
 		},
@@ -643,8 +701,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "The Hizard\u200f\r",
-				"time": 1650197991
+				"player_name": "Omeg\u200fa Troni\r",
+				"time": 1650343070
 			},
 			"steamid": "[U:1:1140154121]"
 		},
@@ -753,10 +811,20 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "max\u200fshhhh\r",
-				"time": 1650201297
+				"player_name": "fetusmunc\u200fher\r",
+				"time": 1650344908
 			},
 			"steamid": "[U:1:1140891295]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Lozar\u200fth\r",
+				"time": 1650359423
+			},
+			"steamid": "[U:1:1140898991]"
 		},
 		{
 			"attributes": [
@@ -783,6 +851,16 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "_D4N3X\u200f_\r",
+				"time": 1650343839
+			},
+			"steamid": "[U:1:1140903039]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "fala\u200fkibrahim1972\r",
 				"time": 1650201868
 			},
@@ -793,8 +871,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "(2)S\u200fushi\r",
-				"time": 1650198188
+				"player_name": "Thelette\u200fr83\r",
+				"time": 1650359734
 			},
 			"steamid": "[U:1:1140915263]"
 		},
@@ -823,8 +901,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "prisonmik\u200fe\r",
-				"time": 1649540796
+				"player_name": "Th\u200feletter83\r",
+				"time": 1650359734
 			},
 			"steamid": "[U:1:1140925263]"
 		},
@@ -833,8 +911,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "default nam\u200festeal\r",
-				"time": 1650195602
+				"player_name": "the pan ma\u200fn\r",
+				"time": 1650359734
 			},
 			"steamid": "[U:1:1140926092]"
 		},
@@ -863,8 +941,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "defa\u200fult namesteal\r",
-				"time": 1650195822
+				"player_name": "captainn\u200famy\r",
+				"time": 1650359734
 			},
 			"steamid": "[U:1:1140986639]"
 		},
@@ -953,8 +1031,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "BIRD MAN\u200f\r",
-				"time": 1650200580
+				"player_name": "brought \u200fto you by lesshook\r",
+				"time": 1650342236
 			},
 			"steamid": "[U:1:1141142431]"
 		},
@@ -993,8 +1071,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "no way\u202c\r",
-				"time": 1648567420
+				"player_name": "Lozar\u200fth\r",
+				"time": 1650253638
 			},
 			"steamid": "[U:1:1141174625]"
 		},
@@ -1014,7 +1092,7 @@
 			],
 			"last_seen": {
 				"player_name": "default bot",
-				"time": 1650188276
+				"time": 1650359572
 			},
 			"steamid": "[U:1:1149427962]"
 		},
@@ -1024,7 +1102,7 @@
 			],
 			"last_seen": {
 				"player_name": "(1)default bot",
-				"time": 1650188276
+				"time": 1650359572
 			},
 			"steamid": "[U:1:1149461969]"
 		},
@@ -1061,8 +1139,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "(2)default bot",
-				"time": 1650240692
+				"player_name": "(1)default bot",
+				"time": 1650252767
 			},
 			"steamid": "[U:1:1149710867]"
 		},
@@ -1110,10 +1188,20 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "(2)default bot",
-				"time": 1650188276
+				"player_name": "(1)default bot",
+				"time": 1650359324
 			},
 			"steamid": "[U:1:1149785115]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(2)default bot",
+				"time": 1650341919
+			},
+			"steamid": "[U:1:1149787555]"
 		},
 		{
 			"attributes": [
@@ -1154,6 +1242,16 @@
 				"time": 1650190207
 			},
 			"steamid": "[U:1:1149871229]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(1)default bot",
+				"time": 1650342234
+			},
+			"steamid": "[U:1:1149883320]"
 		},
 		{
 			"attributes": [
@@ -1305,8 +1403,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "(1)default bot",
-				"time": 1650240692
+				"player_name": "default bot",
+				"time": 1650252874
 			},
 			"steamid": "[U:1:1150096093]"
 		},
@@ -1333,8 +1431,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "default bot",
-				"time": 1650240692
+				"player_name": "(2)default bot",
+				"time": 1650252917
 			},
 			"steamid": "[U:1:1150182627]"
 		},
@@ -1347,6 +1445,16 @@
 				"time": 1650190164
 			},
 			"steamid": "[U:1:1150258904]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "default bot",
+				"time": 1650342234
+			},
+			"steamid": "[U:1:1150345911]"
 		},
 		{
 			"attributes": [
@@ -1699,6 +1807,16 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "www.myg0t.win",
+				"time": 1650343205
+			},
+			"steamid": "[U:1:1197702352]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "(2)www.myg0t.win",
 				"time": 1650012372
 			},
@@ -1810,7 +1928,7 @@
 			],
 			"last_seen": {
 				"player_name": "www.myg0t.win",
-				"time": 1649909422
+				"time": 1650342897
 			},
 			"steamid": "[U:1:1197909590]"
 		},
@@ -1889,8 +2007,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "(1)www.myg0t.win",
-				"time": 1649909947
+				"player_name": "www.myg0t.win",
+				"time": 1650343045
 			},
 			"steamid": "[U:1:1198020798]"
 		},
@@ -1963,6 +2081,16 @@
 				"time": 1650007529
 			},
 			"steamid": "[U:1:1198388987]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(1)www.myg0t.win",
+				"time": 1650359171
+			},
+			"steamid": "[U:1:1198449492]"
 		},
 		{
 			"attributes": [
@@ -2087,8 +2215,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "Lozart\u200fh\r",
-				"time": 1650198527
+				"player_name": "TTV.s\u200fkyegaming_99\r",
+				"time": 1650359696
 			},
 			"steamid": "[U:1:1215201054]"
 		},
@@ -2097,8 +2225,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "default namest\u200feal\r",
-				"time": 1650195614
+				"player_name": "TheKazProject\u200f\r",
+				"time": 1650359442
 			},
 			"steamid": "[U:1:1215298415]"
 		},
@@ -2117,8 +2245,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "MegaBoy e\u200f-Nasty\r",
-				"time": 1650201111
+				"player_name": "certified hood class\u200fic 69\r",
+				"time": 1650359559
 			},
 			"steamid": "[U:1:1215361812]"
 		},
@@ -2127,8 +2255,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "ceja\u200fm40077\r",
-				"time": 1650200598
+				"player_name": "Furt\u200fiv\r",
+				"time": 1650359553
 			},
 			"steamid": "[U:1:1215369207]"
 		},
@@ -2147,8 +2275,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "Lozar\u200fth\r",
-				"time": 1650195293
+				"player_name": "Mimicboi\u200f\r",
+				"time": 1650359263
 			},
 			"steamid": "[U:1:1215529789]"
 		},
@@ -2167,8 +2295,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "fex linen\u200f\r",
-				"time": 1650201459
+				"player_name": "4 ho\u200fur fart\r",
+				"time": 1650359716
 			},
 			"steamid": "[U:1:1215574214]"
 		},
@@ -2187,8 +2315,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "The Hiza\u200frd\r",
-				"time": 1650198078
+				"player_name": "certified hood c\u200flassic 69\r",
+				"time": 1650359214
 			},
 			"steamid": "[U:1:1215678230]"
 		},
@@ -2197,8 +2325,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "oh good heav\u200fens\r",
-				"time": 1650198107
+				"player_name": "Theletter\u200f83\r",
+				"time": 1650359423
 			},
 			"steamid": "[U:1:1215688088]"
 		},
@@ -2227,8 +2355,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "default namestea\u200fl\r",
-				"time": 1650195658
+				"player_name": "(1)captainn\u200famy\r",
+				"time": 1650359696
 			},
 			"steamid": "[U:1:1215780853]"
 		},
@@ -2257,8 +2385,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "(1)Lozart\u200fh\r",
-				"time": 1650198527
+				"player_name": "petter\u200fbita\u30da\u30c3\u30bf\u30fc\u30d3\u30bf",
+				"time": 1650359690
 			},
 			"steamid": "[U:1:1215809512]"
 		},
@@ -2287,8 +2415,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "cejam40077\u200f\r",
-				"time": 1650195293
+				"player_name": "TTV.\u200fskyegaming_99\r",
+				"time": 1650359696
 			},
 			"steamid": "[U:1:1215917354]"
 		},
@@ -2317,8 +2445,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "y\u200fevgeniy\r",
-				"time": 1650201569
+				"player_name": "(1)O \u200fK\r",
+				"time": 1650359430
 			},
 			"steamid": "[U:1:1215958955]"
 		},
@@ -2367,8 +2495,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "Oin\u200fgo Boingo\r",
-				"time": 1650201619
+				"player_name": "B\u200fox Spy\r",
+				"time": 1650359554
 			},
 			"steamid": "[U:1:1216096653]"
 		},
@@ -2387,8 +2515,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "Bill Nye the Russ\u200fian Spy\r",
-				"time": 1650198298
+				"player_name": "capta\u200finnamy\r",
+				"time": 1650359696
 			},
 			"steamid": "[U:1:1216170226]"
 		},
@@ -2407,8 +2535,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "Nonk Mome\u200fnt\r",
-				"time": 1650201173
+				"player_name": "O K\u200f\r",
+				"time": 1650359430
 			},
 			"steamid": "[U:1:1216225484]"
 		},
@@ -2427,8 +2555,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "bluba\u200flls\r",
-				"time": 1650198932
+				"player_name": "Theletter8\u200f3\r",
+				"time": 1650359436
 			},
 			"steamid": "[U:1:1216350750]"
 		},
@@ -2457,8 +2585,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "God's Po\u200fwer\r",
-				"time": 1650198889
+				"player_name": "Thelet\u200fter83\r",
+				"time": 1650359423
 			},
 			"steamid": "[U:1:1216504284]"
 		},
@@ -2467,8 +2595,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "Paste\u200fl Vr //<3\r",
-				"time": 1650195114
+				"player_name": "Tails\u200fFiraga\r",
+				"time": 1650359553
 			},
 			"steamid": "[U:1:1216515664]"
 		},
@@ -2477,8 +2605,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "Mittens the Kit\u200ften\r",
-				"time": 1650198057
+				"player_name": "O \u200fK\r",
+				"time": 1650359355
 			},
 			"steamid": "[U:1:1216518002]"
 		},
@@ -2517,8 +2645,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "monke\u200fy_gun\r",
-				"time": 1650197991
+				"player_name": "skeeskeemcge\u200fe\r",
+				"time": 1650254071
 			},
 			"steamid": "[U:1:1216712002]"
 		},
@@ -2547,8 +2675,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "Sil\u200flychunmaru\r",
-				"time": 1650198527
+				"player_name": "Bn\u200fuyo\r",
+				"time": 1650254219
 			},
 			"steamid": "[U:1:1217021367]"
 		},
@@ -2557,8 +2685,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "Sushi\u200f\r",
-				"time": 1650198082
+				"player_name": "Thele\u200ftter83\r",
+				"time": 1650359121
 			},
 			"steamid": "[U:1:1217034986]"
 		},
@@ -2567,8 +2695,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "Drift\u200fers\r",
-				"time": 1650195318
+				"player_name": "Thelett\u200fer83\r",
+				"time": 1650359703
 			},
 			"steamid": "[U:1:1217052882]"
 		},
@@ -2577,8 +2705,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "mybutthurts\u200f\r",
-				"time": 1650198932
+				"player_name": "Thele\u200ftter83\r",
+				"time": 1650359696
 			},
 			"steamid": "[U:1:1217316070]"
 		},
