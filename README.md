@@ -11,11 +11,11 @@ Current Bot Detection |
 ------------- | 
 OMEGATRONIC
 Gamer Burger AZAFF
-Default Bot / Namesteal
+default bot / Namesteal
 m4gic
 LMAOBOX (Cheater)
 Fuck Nemo
-braaap
+braaaap
 GNU PFP Bots
 doctor sex
 Lesshook
