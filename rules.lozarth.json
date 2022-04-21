@@ -191,5 +191,22 @@
 				}
 			}
 		}
+				{
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
+			"description": "cRpt",
+			"triggers": {
+				"username_text_match": {
+					"case_sensitive": true,
+					"mode": "contains",
+					"patterns": [
+						"cRpt-bot" , "cRpt"
+					]
+				}
+			}
+		},
 	]
 }

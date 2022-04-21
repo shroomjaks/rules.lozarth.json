@@ -3840,12 +3840,88 @@
 		{
 			"attributes": [
 				"cheater"
-			],
+		],
 			"last_seen": {
 				"player_name": "m4gic",
 				"time": 1650012171
-			},
+		},
 			"steamid": "[U:1:1305449430]"
+			            "attributes": [
+                		"cheater"
+           		 ],
+         		"steamid": "[U:1:1271511089]" 
+    		},
+   		{
+   		        "attributes": [
+   		                "cheater"
+   		],
+		        "steamid": "[U:1:1271624931]" 
+		},
+		{
+        	        "attributes": [
+  		                "cheater"
+		],
+ 		        "steamid": "[U:1:1271805258]"
+		},
+ 		{
+ 		        "attributes": [
+   		                "cheater"
+   		],
+  		        "steamid": "[U:1:1271773231]"
+  		},
+ 		{
+ 		        "attributes": [
+		                "cheater"
+        	],
+   		        "steamid": "[U:1:1271773562]"
+   		},
+ 		{
+  		        "attributes": [
+  		                "cheater"
+  		],
+  		        "steamid": "[U:1:1246438452]"
+     		},
+     		{
+    		        "attributes": [
+     		                "cheater"
+  		          ],
+  		        "steamid": "[U:1:1245800377]"
+ 		}     
+  		              {
+ 		        "attributes": [
+ 		                "cheater"
+ 		],
+ 		        "steamid": "[U:1:1246783421]"
+  	        }    
+                {
+      	     		"attributes": [
+      		                "cheater"
+                ],
+     	  	        "steamid": "[U:1:1219859465]"
+                }    
+                {
+       			"attributes": [
+             		        "cheater"
+                ],
+            		"steamid": "[U:1:1229883516]"
+                }    
+                {
+        		"attributes": [
+        		        "cheater"
+                ],
+		    	"steamid": "[U:1:1225002691]"
+      		}    
+                {
+       	 		"attributes": [
+                      	        "cheater"
+                ],
+		    	"steamid": "[U:1:1253416563]"
+                }    
+                {
+           		"attributes": [
+                                "cheater"
+                ],
+          		"steamid": "[U:1:1233393771]"
 		}
 	]
 }
