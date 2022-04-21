@@ -11,7 +11,7 @@ Current Bot Detection |
 ------------- | 
 OMEGATRONIC
 Gamer Burger AZAFF
-default bot / Namesteal
+default bot / namesteal
 m4gic
 LMAOBOX (Cheater)
 Fuck Nemo
