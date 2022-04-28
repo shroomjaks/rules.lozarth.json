@@ -203,7 +203,8 @@
 					"case_sensitive": true,
 					"mode": "contains",
 					"patterns": [
-						"cRpt-bot" , "cRpt"
+						"cRpt-bot",
+						"cRpt"
 					]
 				}
 			}
