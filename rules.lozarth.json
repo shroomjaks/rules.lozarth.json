@@ -208,6 +208,23 @@
 					]
 				}
 			}
+		},
+		{
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
+			"description": "GNU Philosophy",
+			"triggers": {
+				"username_text_match": {
+					"case_sensitive": true,
+					"mode": "contains",
+					"patterns": [
+						"gnu.org/philosophy"
+					]
+				}
+			}
 		}
 	]
 }
