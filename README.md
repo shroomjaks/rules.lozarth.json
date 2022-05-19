@@ -16,7 +16,7 @@ m4gic
 LMAOBOX (Cheater)
 Fuck Nemo
 braaaap
-GNU PFP Bots
+GNU Bots
 doctor sex
 Lesshook
 cRpt
