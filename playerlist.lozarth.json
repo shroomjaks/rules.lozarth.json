@@ -5,10 +5,29 @@
 			"Lozarth"
 		],
 		"description": "A list of 300+ bots and cheaters.",
-		"title": "Lozarth's Bot & Cheater List",
-		"update_url": "https://raw.githubusercontent.com/Lozarth/tf2bd-lozarthsrules/main/playerlist.lozarth.json"
+		"title": "Lozarth's Bot & Cheater List"
 	},
 	"players": [
+		{
+			"attributes": [
+				"racist"
+			],
+			"last_seen": {
+				"player_name": "AlphaKennyBody",
+				"time": 1652940546
+			},
+			"steamid": "[U:1:34969298]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\u262eZorra\u270c",
+				"time": 1652941614
+			},
+			"steamid": "[U:1:44796920]"
+		},
 		{
 			"attributes": [
 				"cheater"
@@ -44,10 +63,30 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "BioScythe",
+				"time": 1652942153
+			},
+			"steamid": "[U:1:86838278]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "(3)www.myg0t.win",
 				"time": 1649909947
 			},
 			"steamid": "[U:1:103734833]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "milkshake.",
+				"time": 1652941086
+			},
+			"steamid": "[U:1:109067177]"
 		},
 		{
 			"attributes": [
@@ -58,6 +97,16 @@
 				"time": 1649834679
 			},
 			"steamid": "[U:1:120645153]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Eeloo",
+				"time": 1651268406
+			},
+			"steamid": "[U:1:140420870]"
 		},
 		{
 			"attributes": [
@@ -267,6 +316,16 @@
 				"time": 1650189534
 			},
 			"steamid": "[U:1:1072854112]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "Blue Snoop",
+				"time": 1652940127
+			},
+			"steamid": "[U:1:1105778191]"
 		},
 		{
 			"attributes": [
@@ -671,8 +730,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "GYis\u200fus\r",
-				"time": 1650470366
+				"player_name": "MUSICAL GENIUS\r",
+				"time": 1651267223
 			},
 			"steamid": "[U:1:1139979151]"
 		},
@@ -731,8 +790,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "default names\u200fteal\r",
-				"time": 1650195070
+				"player_name": "owe\u200fnxm\r",
+				"time": 1651477466
 			},
 			"steamid": "[U:1:1140041521]"
 		},
@@ -821,8 +880,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "DRESS RED\r",
-				"time": 1651135883
+				"player_name": "L\u202cITIUM\r",
+				"time": 1652939630
 			},
 			"steamid": "[U:1:1140284466]"
 		},
@@ -841,8 +900,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "MUSICAL ARTIST!\r",
-				"time": 1651134631
+				"player_name": "MUSICAL ARTIST\r",
+				"time": 1651267147
 			},
 			"steamid": "[U:1:1140339334]"
 		},
@@ -901,8 +960,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "(2)Lozart\u200fh\r",
-				"time": 1650366874
+				"player_name": "S\u200fora\r",
+				"time": 1651477466
 			},
 			"steamid": "[U:1:1140871705]"
 		},
@@ -921,8 +980,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "Lozar\u200fth\r",
-				"time": 1650359423
+				"player_name": "fig tree\u200f\r",
+				"time": 1651477466
 			},
 			"steamid": "[U:1:1140898991]"
 		},
@@ -1141,8 +1200,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "SONG WRITER!\r",
-				"time": 1651134698
+				"player_name": "K\u200foldunishka\r",
+				"time": 1651477466
 			},
 			"steamid": "[U:1:1141137098]"
 		},
@@ -1671,8 +1730,28 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "Later Nerd\u200fs\r",
-				"time": 1650168000
+				"player_name": "Emi Gall\u200fetas Falsa >:3\r",
+				"time": 1651606517
+			},
+			"steamid": "[U:1:1179129845]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Deku\u202c\r",
+				"time": 1652942354
+			},
+			"steamid": "[U:1:1179226600]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "DiedMedez\u200f\r",
+				"time": 1651607523
 			},
 			"steamid": "[U:1:1179247634]"
 		},
@@ -1685,6 +1764,16 @@
 				"time": 1650165320
 			},
 			"steamid": "[U:1:1179269493]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "co\u200fchinito\r",
+				"time": 1651477466
+			},
+			"steamid": "[U:1:1179487938]"
 		},
 		{
 			"attributes": [
@@ -2437,8 +2526,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "Cocaine\u200fr\r",
-				"time": 1651089780
+				"player_name": "ailee\u202c\r",
+				"time": 1652942416
 			},
 			"steamid": "[U:1:1215298415]"
 		},
@@ -2467,8 +2556,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "lb\u200fy\r",
-				"time": 1650366737
+				"player_name": "TT\u200fV DarkEyv\r",
+				"time": 1651477466
 			},
 			"steamid": "[U:1:1215369207]"
 		},
@@ -2497,8 +2586,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "e\u200fldem0nio1\r",
-				"time": 1651089780
+				"player_name": "A\u202cntonio\r",
+				"time": 1652941083
 			},
 			"steamid": "[U:1:1215557300]"
 		},
@@ -2507,8 +2596,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "(1)MUSICAL GENIUS\r",
-				"time": 1651135802
+				"player_name": "MUSIC TEACHER\r",
+				"time": 1651380254
 			},
 			"steamid": "[U:1:1215574214]"
 		},
@@ -2527,8 +2616,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "MUSICAL GENIUS\r",
-				"time": 1651135817
+				"player_name": "made verryepicgamer ragequi\u202ct",
+				"time": 1652942423
 			},
 			"steamid": "[U:1:1215678230]"
 		},
@@ -2557,8 +2646,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "Emij\u200fon\r",
-				"time": 1650933432
+				"player_name": "xsorbur\u200fax\r",
+				"time": 1651477444
 			},
 			"steamid": "[U:1:1215761145]"
 		},
@@ -2577,8 +2666,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "Gyro Zep\u200fpeli\r",
-				"time": 1650643084
+				"player_name": "cochin\u200fito\r",
+				"time": 1651477466
 			},
 			"steamid": "[U:1:1215806193]"
 		},
@@ -2637,8 +2726,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "Lozarth\u200f\r",
-				"time": 1650470366
+				"player_name": "Pho\u202cenix\r",
+				"time": 1652940754
 			},
 			"steamid": "[U:1:1215918964]"
 		},
@@ -2657,8 +2746,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "Medic Gaming\u200f\r",
-				"time": 1650368176
+				"player_name": "incit\u200frous\r",
+				"time": 1651477466
 			},
 			"steamid": "[U:1:1215958955]"
 		},
@@ -2687,8 +2776,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "SONG WRITER!\r",
-				"time": 1651135823
+				"player_name": "inc\u200fitrous\r",
+				"time": 1651477466
 			},
 			"steamid": "[U:1:1216013356]"
 		},
@@ -2707,8 +2796,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "MY SONG IS GOOD\r",
-				"time": 1651135883
+				"player_name": "TTV Dar\u200fkEyv\r",
+				"time": 1651477468
 			},
 			"steamid": "[U:1:1216096653]"
 		},
@@ -2717,8 +2806,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "YOU HAVE BAD TASTE\r",
-				"time": 1651135862
+				"player_name": "\uff27\uff4f\uff47\u202c\uff54\uff41\r",
+				"time": 1652942416
 			},
 			"steamid": "[U:1:1216118773]"
 		},
@@ -2757,8 +2846,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "MY SONG IS GOOD\r",
-				"time": 1651134622
+				"player_name": "Guil\u202ce\r",
+				"time": 1652940704
 			},
 			"steamid": "[U:1:1216313694]"
 		},
@@ -2787,8 +2876,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "MUSIC TEACHER\r",
-				"time": 1651135853
+				"player_name": "MUSICAL GENIUS\r",
+				"time": 1651269048
 			},
 			"steamid": "[U:1:1216455473]"
 		},
@@ -2907,8 +2996,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "A RED FUCKING DRESS\r",
-				"time": 1651135862
+				"player_name": "SONG WRITER!\r",
+				"time": 1651380254
 			},
 			"steamid": "[U:1:1217052882]"
 		},
@@ -2917,8 +3006,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "(1)Lozart\u200fh\r",
-				"time": 1650366874
+				"player_name": "DRESS RED\r",
+				"time": 1651380254
 			},
 			"steamid": "[U:1:1217316070]"
 		},
@@ -2985,6 +3074,16 @@
 				"time": 1650091797
 			},
 			"steamid": "[U:1:1243251676]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "pichu212",
+				"time": 1651606564
+			},
+			"steamid": "[U:1:1244210339]"
 		},
 		{
 			"attributes": [
@@ -3664,6 +3763,16 @@
 				"cheater"
 			],
 			"last_seen": {
+				"player_name": "MUSICAL GENIUS\r\u2063",
+				"time": 1651296873
+			},
+			"steamid": "[U:1:1291648038]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
 				"player_name": "m4gic",
 				"time": 1650731408
 			},
@@ -4064,8 +4173,8 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "m4gic",
-				"time": 1650932834
+				"player_name": "(1)m4gic",
+				"time": 1652942424
 			},
 			"steamid": "[U:1:1309855623]"
 		},
@@ -4148,6 +4257,16 @@
 				"time": 1651134576
 			},
 			"steamid": "[U:1:1313497148]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "m4gic",
+				"time": 1652938066
+			},
+			"steamid": "[U:1:1315071063]"
 		}
 	]
 }
