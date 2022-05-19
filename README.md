@@ -1,7 +1,7 @@
 # rules.lozarth.json
 
 ### What is this?
-This is a **rules.json** and **playerlist.json** file for [TF2 Bot Detector](https://github.com/PazerOP/tf2_bot_detector "TF2 Bot Detector").
+These are rules and playerlist config files for [TF2 Bot Detector](https://github.com/PazerOP/tf2_bot_detector "TF2 Bot Detector").
 
 ### How can I use it?
 You can use these json files by downloading them and moving them to your **/cfg** folder where **tf2_bot_detector.exe** is located.
