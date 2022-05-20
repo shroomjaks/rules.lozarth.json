@@ -67,6 +67,7 @@
 			},
 			"description": "m4gic",
 			"triggers": {
+				"mode": "match_any",
 				"chatmsg_text_match": {
 					"case_sensitive": true,
 					"mode": "contains",
@@ -75,14 +76,18 @@
 						"(\n x 20)"
 					]
 				},
-				"mode": "match_all",
 				"username_text_match": {
 					"case_sensitive": true,
 					"mode": "contains",
 					"patterns": [
 						"m4gic"
 					]
-				}
+				},
+				"avatar_match": [
+					{
+						"avatar_hash": "225285e702ec8921f4b1edaa55a373c5ab87a112"
+					}
+				]
 			}
 		},
 		{
