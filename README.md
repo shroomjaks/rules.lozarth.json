@@ -13,7 +13,7 @@ OMEGATRONIC
 Gamer Burger AZAFF
 default bot / namesteal
 m4gic
-LMAOBOX (Cheater)
+LMAOBOX
 Fuck Nemo
 braaaap
 GNU Bots
