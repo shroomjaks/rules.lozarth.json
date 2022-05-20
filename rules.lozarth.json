@@ -17,14 +17,6 @@
 			},
 			"description": "OMEGATRONIC",
 			"triggers": {
-				"mode": "match_all",
-				"username_text_match": {
-					"case_sensitive": true,
-					"mode": "contains",
-					"patterns": [
-						"OMEGATRONIC"
-					]
-				},
 				"avatar_match": [
 					{
 						"avatar_hash": "cd0f89d52d4febcdd980255e498a994b0e3a56a4"
