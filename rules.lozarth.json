@@ -6,7 +6,7 @@
 		],
 		"description": "Custom rules list for TF2 Bot Detector.",
 		"title": "Lozarth's Rules List",
-		"update_url": "https://raw.githubusercontent.com/Lozarth/tf2bd-lozarthsrules/main/rules.lozarth.json"
+		"update_url": "https://raw.githubusercontent.com/Lozarth/rules.lozarth.json/main/rules.lozarth.json"
 	},
 	"rules": [
 		{
