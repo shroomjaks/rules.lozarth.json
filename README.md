@@ -20,6 +20,7 @@ GNU Bots
 doctor sex
 Lesshook
 cRpt
+Uncletopia advertisement bots (unofficial)
 
 ### Contact
 If you would like to contact me please add me on Discord.
