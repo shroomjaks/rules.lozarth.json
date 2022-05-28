@@ -230,6 +230,23 @@
 					]
 				}
 			}
+		},
+		{
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
+			"description": "Uncletopia bots",
+			"triggers": {
+				"chatmsg_text_match": {
+					"case_sensitive": true,
+					"mode": "contains",
+					"patterns": [
+						"UNCLETOPIA.COM BEST MODERATED SERVERS! NO BOTS NO CHEATERS!"
+					]
+				}
+			}
 		}
 	]
 }
