@@ -35,36 +35,8 @@
 				"mode": "match_any",
 				"avatar_match": [
 					{
-						"avatar_hash": "48379932708d568c739d3cd25784fea15440f010"
-					}
-				],
-				"chatmsg_text_match": {
-					"case_sensitive": true,
-					"mode": "contains",
-					"patterns": [
-						"GO FUCK YOURSELF, GET ROLLED!",
-						"m4gic your a stupid monkey",
-						"igor you deserve that dick!",
-						"m4gic is a FUCKING LOSER",
-						"YOU HAVE BEEN TROLLED!",
-						"EzerBober#1284",
-						"m4gic is a faggot"
-					]
-				}
-			}
-		},
-		{
-			"actions": {
-				"mark": [
-					"cheater"
-				]
-			},
-			"description": "Gamer Burger 2",
-			"triggers": {
-				"mode": "match_any",
-				"avatar_match": [
-					{
-						"avatar_hash": "01f032fa76e876efef52ef2cebd984bf3b0015af"
+						"avatar_hash": "48379932708d568c739d3cd25784fea15440f010",
+						"avatar_hash1": "01f032fa76e876efef52ef2cebd984bf3b0015af"
 					}
 				],
 				"chatmsg_text_match": {
