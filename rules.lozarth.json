@@ -35,8 +35,7 @@
 				"mode": "match_any",
 				"avatar_match": [
 					{
-						"avatar_hash": "48379932708d568c739d3cd25784fea15440f010",
-						"avatar_hash1": "01f032fa76e876efef52ef2cebd984bf3b0015af"
+						"avatar_hash": "48379932708d568c739d3cd25784fea15440f010"
 					}
 				],
 				"chatmsg_text_match": {
