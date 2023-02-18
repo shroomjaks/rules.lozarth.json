@@ -261,18 +261,18 @@
 			},
 			"description": "TYPICAL TF2 PLAYER",
 			"triggers": {
-				"personaname_text_match": {
+				"avatar_match": [
+					{
+						"avatar_hash": "1b8b19bd7ee532b780bf34161dce41472adb5289"
+					}
+				],
+				"username_text_match": {
 					"case_sensitive": true,
 					"mode": "contains",
 					"patterns": [
 						"\u0e48"
 					]
-				},
-				"avatar_match": [
-					{
-						"avatar_hash": "1b8b19bd7ee532b780bf34161dce41472adb5289"
-					}
-				]
+				}
 			}
 		}
 	]
