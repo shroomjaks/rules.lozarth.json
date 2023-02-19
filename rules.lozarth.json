@@ -4,7 +4,7 @@
 		"authors": [
 			"Lozarth"
 		],
-		"description": "Custom rules list for TF2 Bot Detector.",
+		"description": "A custom rule list for TF2 Bot Detector.",
 		"title": "Lozarth's Rules List",
 		"update_url": "https://raw.githubusercontent.com/Lozarth/rules.lozarth.json/main/rules.lozarth.json"
 	},
@@ -266,13 +266,7 @@
 						"avatar_hash": "1b8b19bd7ee532b780bf34161dce41472adb5289"
 					}
 				],
-				"username_text_match": {
-					"case_sensitive": true,
-					"mode": "contains",
-					"patterns": [
-						"\u0e48"
-					]
-				}
+				"mode": "match_all"
 			}
 		}
 	]
