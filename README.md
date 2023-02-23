@@ -1,4 +1,5 @@
 # rules.lozarth.json
+This list was compiled in Eastern North America (Usually Virginia Servers)
 
 ### What is this?
 These are rules and playerlist config files for [TF2 Bot Detector](https://github.com/PazerOP/tf2_bot_detector "TF2 Bot Detector").
