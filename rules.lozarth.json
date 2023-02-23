@@ -265,8 +265,7 @@
 					{
 						"avatar_hash": "1b8b19bd7ee532b780bf34161dce41472adb5289"
 					}
-				],
-				"mode": "match_all"
+				]
 			}
 		}
 	]
