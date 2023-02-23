@@ -4,11 +4,21 @@
     "authors": [
       "Lozarth"
     ],
-    "description": "A list of 600+ bots and cheaters.",
+    "description": "A list of 500+ bots and cheaters.",
     "title": "Lozarth's Bot & Cheater List",
     "update_url": "https://raw.githubusercontent.com/Lozarth/rules.lozarth.json/main/playerlist.lozarth.json"
   },
   "players": [
+    {
+      "attributes": [
+        "cheater"
+      ],
+      "last_seen": {
+        "player_name": "DoesHotter",
+        "time": 1676974850
+      },
+      "steamid": "[U:1:33385974]"
+    },
     {
       "attributes": [
         "racist"
@@ -18,6 +28,16 @@
         "time": 1652940546
       },
       "steamid": "[U:1:34969298]"
+    },
+    {
+      "attributes": [
+        "cheater"
+      ],
+      "last_seen": {
+        "player_name": "(2)DoesHotter",
+        "time": 1676974820
+      },
+      "steamid": "[U:1:38515290]"
     },
     {
       "attributes": [
@@ -104,6 +124,15 @@
         "cheater"
       ],
       "last_seen": {
+        "time": 1676864589
+      },
+      "steamid": "[U:1:88176912]"
+    },
+    {
+      "attributes": [
+        "cheater"
+      ],
+      "last_seen": {
         "player_name": "61",
         "time": 1676767348
       },
@@ -114,10 +143,29 @@
         "cheater"
       ],
       "last_seen": {
+        "time": 1676864717
+      },
+      "steamid": "[U:1:92464898]"
+    },
+    {
+      "attributes": [
+        "cheater"
+      ],
+      "last_seen": {
         "player_name": "TY่PIC่AL TF2 PLA่YER",
         "time": 1676767558
       },
       "steamid": "[U:1:95783819]"
+    },
+    {
+      "attributes": [
+        "cheater"
+      ],
+      "last_seen": {
+        "player_name": "TYPICAL TF2 PLAYE่R",
+        "time": 1676865667
+      },
+      "steamid": "[U:1:100685324]"
     },
     {
       "attributes": [
@@ -148,6 +196,15 @@
         "time": 1652941086
       },
       "steamid": "[U:1:109067177]"
+    },
+    {
+      "attributes": [
+        "cheater"
+      ],
+      "last_seen": {
+        "time": 1676864475
+      },
+      "steamid": "[U:1:111535082]"
     },
     {
       "attributes": [
@@ -193,6 +250,16 @@
         "cheater"
       ],
       "last_seen": {
+        "player_name": "T่YPICAL TF2 PLAYER",
+        "time": 1676865350
+      },
+      "steamid": "[U:1:134973925]"
+    },
+    {
+      "attributes": [
+        "cheater"
+      ],
+      "last_seen": {
         "player_name": "Eeloo",
         "time": 1651268406
       },
@@ -203,10 +270,29 @@
         "cheater"
       ],
       "last_seen": {
+        "time": 1676866241
+      },
+      "steamid": "[U:1:151875232]"
+    },
+    {
+      "attributes": [
+        "cheater"
+      ],
+      "last_seen": {
         "player_name": "TYPICA่L T่F2 PLAYER",
         "time": 1676768015
       },
       "steamid": "[U:1:154942190]"
+    },
+    {
+      "attributes": [
+        "cheater"
+      ],
+      "last_seen": {
+        "player_name": "TYP่ICAL TF2 P่LAY่ER",
+        "time": 1676864876
+      },
+      "steamid": "[U:1:156933301]"
     },
     {
       "attributes": [
@@ -303,6 +389,35 @@
         "cheater"
       ],
       "last_seen": {
+        "time": 1676864910
+      },
+      "steamid": "[U:1:302855247]"
+    },
+    {
+      "attributes": [
+        "cheater"
+      ],
+      "last_seen": {
+        "player_name": "TY่PI่CAL TF2 PLAYER",
+        "time": 1676864765
+      },
+      "steamid": "[U:1:313091194]"
+    },
+    {
+      "attributes": [
+        "cheater"
+      ],
+      "last_seen": {
+        "player_name": "TYPICA่L TF2 PLAYER",
+        "time": 1676865241
+      },
+      "steamid": "[U:1:338827396]"
+    },
+    {
+      "attributes": [
+        "cheater"
+      ],
+      "last_seen": {
         "player_name": "(1)www.myg0t.win",
         "time": 1648772536
       },
@@ -337,6 +452,15 @@
         "time": 1649909940
       },
       "steamid": "[U:1:389954748]"
+    },
+    {
+      "attributes": [
+        "cheater"
+      ],
+      "last_seen": {
+        "time": 1676865040
+      },
+      "steamid": "[U:1:397795046]"
     },
     {
       "attributes": [
@@ -387,6 +511,15 @@
         "time": 1676693329
       },
       "steamid": "[U:1:435720643]"
+    },
+    {
+      "attributes": [
+        "cheater"
+      ],
+      "last_seen": {
+        "time": 1676771277
+      },
+      "steamid": "[U:1:436691785]"
     },
     {
       "attributes": [
@@ -556,6 +689,16 @@
         "time": 1650189534
       },
       "steamid": "[U:1:1072854112]"
+    },
+    {
+      "attributes": [
+        "suspicious"
+      ],
+      "last_seen": {
+        "player_name": "Ponysexual Gaming",
+        "time": 1676974202
+      },
+      "steamid": "[U:1:1096598191]"
     },
     {
       "attributes": [
@@ -2252,10 +2395,29 @@
         "cheater"
       ],
       "last_seen": {
+        "time": 1676864473
+      },
+      "steamid": "[U:1:1181407158]"
+    },
+    {
+      "attributes": [
+        "cheater"
+      ],
+      "last_seen": {
         "player_name": "TYPIC่AL TF2 P่LAY่ER",
         "time": 1676692590
       },
       "steamid": "[U:1:1181461503]"
+    },
+    {
+      "attributes": [
+        "cheater"
+      ],
+      "last_seen": {
+        "player_name": "DOO DOO",
+        "time": 1676864767
+      },
+      "steamid": "[U:1:1181648461]"
     },
     {
       "attributes": [
@@ -2978,10 +3140,205 @@
         "cheater"
       ],
       "last_seen": {
+        "time": 1676968350
+      },
+      "steamid": "[U:1:1201491635]"
+    },
+    {
+      "attributes": [
+        "cheater"
+      ],
+      "last_seen": {
+        "time": 1676968347
+      },
+      "steamid": "[U:1:1201545649]"
+    },
+    {
+      "attributes": [
+        "cheater"
+      ],
+      "last_seen": {
+        "time": 1676968355
+      },
+      "steamid": "[U:1:1201611572]"
+    },
+    {
+      "attributes": [
+        "cheater"
+      ],
+      "last_seen": {
+        "player_name": "☺☻☺☻DYBALA",
+        "time": 1676974824
+      },
+      "steamid": "[U:1:1201624397]"
+    },
+    {
+      "attributes": [
+        "cheater"
+      ],
+      "last_seen": {
+        "player_name": "Tirithon0079",
+        "time": 1676972335
+      },
+      "steamid": "[U:1:1201635749]"
+    },
+    {
+      "attributes": [
+        "cheater"
+      ],
+      "last_seen": {
+        "time": 1676974889
+      },
+      "steamid": "[U:1:1201706392]"
+    },
+    {
+      "attributes": [
+        "cheater"
+      ],
+      "last_seen": {
+        "player_name": "Gnusik2291",
+        "time": 1676968715
+      },
+      "steamid": "[U:1:1201706638]"
+    },
+    {
+      "attributes": [
+        "cheater"
+      ],
+      "last_seen": {
+        "player_name": "Rusty Robot",
+        "time": 1676968725
+      },
+      "steamid": "[U:1:1201730666]"
+    },
+    {
+      "attributes": [
+        "cheater"
+      ],
+      "last_seen": {
+        "player_name": "TrollmanTV147",
+        "time": 1676968344
+      },
+      "steamid": "[U:1:1201737131]"
+    },
+    {
+      "attributes": [
+        "cheater"
+      ],
+      "last_seen": {
+        "player_name": "conoresque",
+        "time": 1676968241
+      },
+      "steamid": "[U:1:1201757594]"
+    },
+    {
+      "attributes": [
+        "cheater"
+      ],
+      "last_seen": {
+        "player_name": "Pieróżki",
+        "time": 1676972253
+      },
+      "steamid": "[U:1:1201775209]"
+    },
+    {
+      "attributes": [
+        "cheater"
+      ],
+      "last_seen": {
+        "player_name": "Subaru258",
+        "time": 1676974887
+      },
+      "steamid": "[U:1:1201777675]"
+    },
+    {
+      "attributes": [
+        "cheater"
+      ],
+      "last_seen": {
+        "player_name": "2pt0",
+        "time": 1676974884
+      },
+      "steamid": "[U:1:1201789746]"
+    },
+    {
+      "attributes": [
+        "cheater"
+      ],
+      "last_seen": {
+        "player_name": "CliffBanana",
+        "time": 1676968362
+      },
+      "steamid": "[U:1:1201805780]"
+    },
+    {
+      "attributes": [
+        "cheater"
+      ],
+      "last_seen": {
+        "player_name": "The Devil herself",
+        "time": 1676969524
+      },
+      "steamid": "[U:1:1201812221]"
+    },
+    {
+      "attributes": [
+        "cheater"
+      ],
+      "last_seen": {
+        "player_name": "Pyro casual血の涙",
+        "time": 1676968359
+      },
+      "steamid": "[U:1:1201813824]"
+    },
+    {
+      "attributes": [
+        "cheater"
+      ],
+      "last_seen": {
+        "time": 1676975110
+      },
+      "steamid": "[U:1:1201819728]"
+    },
+    {
+      "attributes": [
+        "cheater"
+      ],
+      "last_seen": {
+        "player_name": "Azney",
+        "time": 1676968317
+      },
+      "steamid": "[U:1:1201831794]"
+    },
+    {
+      "attributes": [
+        "cheater"
+      ],
+      "last_seen": {
         "player_name": "kirbeh",
         "time": 1676691516
       },
       "steamid": "[U:1:1201845415]"
+    },
+    {
+      "attributes": [
+        "cheater"
+      ],
+      "last_seen": {
+        "player_name": "The Jackal",
+        "time": 1676975537
+      },
+      "steamid": "[U:1:1201849484]"
+    },
+    {
+      "attributes": [
+        "cheater"
+      ],
+      "last_seen": {
+        "player_name": "OhThatsNasty1",
+        "time": 1676975506
+      },
+      "steamid": "[U:1:1201852646]"
     },
     {
       "attributes": [
@@ -3008,6 +3365,76 @@
         "cheater"
       ],
       "last_seen": {
+        "player_name": "peyton.formigoni",
+        "time": 1676968246
+      },
+      "steamid": "[U:1:1201893583]"
+    },
+    {
+      "attributes": [
+        "cheater"
+      ],
+      "last_seen": {
+        "player_name": "moth",
+        "time": 1676968244
+      },
+      "steamid": "[U:1:1201916303]"
+    },
+    {
+      "attributes": [
+        "cheater"
+      ],
+      "last_seen": {
+        "player_name": "aunt jemima",
+        "time": 1676968221
+      },
+      "steamid": "[U:1:1201922643]"
+    },
+    {
+      "attributes": [
+        "cheater"
+      ],
+      "last_seen": {
+        "player_name": "Sophia",
+        "time": 1676968238
+      },
+      "steamid": "[U:1:1201926547]"
+    },
+    {
+      "attributes": [
+        "cheater"
+      ],
+      "last_seen": {
+        "player_name": "Mitlo",
+        "time": 1676974879
+      },
+      "steamid": "[U:1:1201948396]"
+    },
+    {
+      "attributes": [
+        "cheater"
+      ],
+      "last_seen": {
+        "player_name": "shineingprism19",
+        "time": 1676968415
+      },
+      "steamid": "[U:1:1201952426]"
+    },
+    {
+      "attributes": [
+        "cheater"
+      ],
+      "last_seen": {
+        "player_name": "Commander_Raven",
+        "time": 1676968633
+      },
+      "steamid": "[U:1:1201955542]"
+    },
+    {
+      "attributes": [
+        "cheater"
+      ],
+      "last_seen": {
         "player_name": "Vivernia",
         "time": 1676691465
       },
@@ -3022,6 +3449,105 @@
         "time": 1676695005
       },
       "steamid": "[U:1:1201994212]"
+    },
+    {
+      "attributes": [
+        "cheater"
+      ],
+      "last_seen": {
+        "player_name": "sublimepenny",
+        "time": 1676968366
+      },
+      "steamid": "[U:1:1201997338]"
+    },
+    {
+      "attributes": [
+        "cheater"
+      ],
+      "last_seen": {
+        "time": 1676968537
+      },
+      "steamid": "[U:1:1201999973]"
+    },
+    {
+      "attributes": [
+        "cheater"
+      ],
+      "last_seen": {
+        "player_name": "SwordManBG6",
+        "time": 1676968364
+      },
+      "steamid": "[U:1:1202004583]"
+    },
+    {
+      "attributes": [
+        "cheater"
+      ],
+      "last_seen": {
+        "player_name": "Awkidoo1012",
+        "time": 1676974829
+      },
+      "steamid": "[U:1:1202057169]"
+    },
+    {
+      "attributes": [
+        "cheater"
+      ],
+      "last_seen": {
+        "player_name": "👽 Space Princess 👽",
+        "time": 1676968531
+      },
+      "steamid": "[U:1:1202058521]"
+    },
+    {
+      "attributes": [
+        "cheater"
+      ],
+      "last_seen": {
+        "player_name": "Dr Skull",
+        "time": 1676968353
+      },
+      "steamid": "[U:1:1202067165]"
+    },
+    {
+      "attributes": [
+        "cheater"
+      ],
+      "last_seen": {
+        "player_name": "Oroben",
+        "time": 1676971919
+      },
+      "steamid": "[U:1:1202081668]"
+    },
+    {
+      "attributes": [
+        "cheater"
+      ],
+      "last_seen": {
+        "player_name": "the financial burden of war",
+        "time": 1676975511
+      },
+      "steamid": "[U:1:1202117176]"
+    },
+    {
+      "attributes": [
+        "cheater"
+      ],
+      "last_seen": {
+        "player_name": "Potato",
+        "time": 1676950766
+      },
+      "steamid": "[U:1:1202249806]"
+    },
+    {
+      "attributes": [
+        "cheater"
+      ],
+      "last_seen": {
+        "player_name": "Swedish Monke",
+        "time": 1676974834
+      },
+      "steamid": "[U:1:1202393333]"
     },
     {
       "attributes": [
@@ -5404,526 +5930,50 @@
         "cheater"
       ],
       "last_seen": {
-        "time": 1676864589
+        "player_name": "Zack",
+        "time": 1677130525
       },
-      "steamid": "[U:1:88176912]"
+      "steamid": "[U:1:211205495]"
     },
     {
       "attributes": [
         "cheater"
       ],
       "last_seen": {
-        "time": 1676864717
+        "player_name": "breaking news",
+        "time": 1677108939
       },
-      "steamid": "[U:1:92464898]"
+      "steamid": "[U:1:257919412]"
     },
     {
       "attributes": [
         "cheater"
       ],
       "last_seen": {
-        "player_name": "TYPICAL TF2 PLAYE่R",
-        "time": 1676865667
+        "player_name": "plunderless",
+        "time": 1677112336
       },
-      "steamid": "[U:1:100685324]"
+      "steamid": "[U:1:1201495938]"
     },
     {
       "attributes": [
         "cheater"
       ],
       "last_seen": {
-        "time": 1676864475
+        "player_name": "Fiddler72203",
+        "time": 1677106618
       },
-      "steamid": "[U:1:111535082]"
+      "steamid": "[U:1:1201918333]"
     },
     {
       "attributes": [
         "cheater"
       ],
       "last_seen": {
-        "player_name": "T่YPICAL TF2 PLAYER",
-        "time": 1676865350
+        "player_name": "dendi",
+        "time": 1677110850
       },
-      "steamid": "[U:1:134973925]"
-    },
-    {
-      "attributes": [
-        "cheater"
-      ],
-      "last_seen": {
-        "time": 1676866241
-      },
-      "steamid": "[U:1:151875232]"
-    },
-    {
-      "attributes": [
-        "cheater"
-      ],
-      "last_seen": {
-        "player_name": "TYP่ICAL TF2 P่LAY่ER",
-        "time": 1676864876
-      },
-      "steamid": "[U:1:156933301]"
-    },
-    {
-      "attributes": [
-        "cheater"
-      ],
-      "last_seen": {
-        "time": 1676864910
-      },
-      "steamid": "[U:1:302855247]"
-    },
-    {
-      "attributes": [
-        "cheater"
-      ],
-      "last_seen": {
-        "player_name": "TY่PI่CAL TF2 PLAYER",
-        "time": 1676864765
-      },
-      "steamid": "[U:1:313091194]"
-    },
-    {
-      "attributes": [
-        "cheater"
-      ],
-      "last_seen": {
-        "player_name": "TYPICA่L TF2 PLAYER",
-        "time": 1676865241
-      },
-      "steamid": "[U:1:338827396]"
-    },
-    {
-      "attributes": [
-        "cheater"
-      ],
-      "last_seen": {
-        "time": 1676865040
-      },
-      "steamid": "[U:1:397795046]"
-    },
-    {
-      "attributes": [
-        "cheater"
-      ],
-      "last_seen": {
-        "time": 1676771277
-      },
-      "steamid": "[U:1:436691785]"
-    },
-    {
-      "attributes": [
-        "cheater"
-      ],
-      "last_seen": {
-        "time": 1676864473
-      },
-      "steamid": "[U:1:1181407158]"
-    },
-    {
-      "attributes": [
-        "cheater"
-      ],
-      "last_seen": {
-        "player_name": "DOO DOO",
-        "time": 1676864767
-      },
-      "steamid": "[U:1:1181648461]"
-    },
-    {
-      "attributes": [
-        "cheater"
-      ],
-      "last_seen": {
-        "time": 1676968350
-      },
-      "steamid": "[U:1:1201491635]"
-    },
-    {
-      "attributes": [
-        "cheater"
-      ],
-      "last_seen": {
-        "time": 1676968347
-      },
-      "steamid": "[U:1:1201545649]"
-    },
-    {
-      "attributes": [
-        "cheater"
-      ],
-      "last_seen": {
-        "time": 1676968355
-      },
-      "steamid": "[U:1:1201611572]"
-    },
-    {
-      "attributes": [
-        "cheater"
-      ],
-      "last_seen": {
-        "player_name": "TrollmanTV147",
-        "time": 1676968344
-      },
-      "steamid": "[U:1:1201737131]"
-    },
-    {
-      "attributes": [
-        "cheater"
-      ],
-      "last_seen": {
-        "player_name": "conoresque",
-        "time": 1676968241
-      },
-      "steamid": "[U:1:1201757594]"
-    },
-    {
-      "attributes": [
-        "cheater"
-      ],
-      "last_seen": {
-        "player_name": "CliffBanana",
-        "time": 1676968362
-      },
-      "steamid": "[U:1:1201805780]"
-    },
-    {
-      "attributes": [
-        "cheater"
-      ],
-      "last_seen": {
-        "player_name": "Pyro casual血の涙",
-        "time": 1676968359
-      },
-      "steamid": "[U:1:1201813824]"
-    },
-    {
-      "attributes": [
-        "cheater"
-      ],
-      "last_seen": {
-        "player_name": "Azney",
-        "time": 1676968317
-      },
-      "steamid": "[U:1:1201831794]"
-    },
-    {
-      "attributes": [
-        "cheater"
-      ],
-      "last_seen": {
-        "player_name": "peyton.formigoni",
-        "time": 1676968246
-      },
-      "steamid": "[U:1:1201893583]"
-    },
-    {
-      "attributes": [
-        "cheater"
-      ],
-      "last_seen": {
-        "player_name": "moth",
-        "time": 1676968244
-      },
-      "steamid": "[U:1:1201916303]"
-    },
-    {
-      "attributes": [
-        "cheater"
-      ],
-      "last_seen": {
-        "player_name": "aunt jemima",
-        "time": 1676968221
-      },
-      "steamid": "[U:1:1201922643]"
-    },
-    {
-      "attributes": [
-        "cheater"
-      ],
-      "last_seen": {
-        "player_name": "Sophia",
-        "time": 1676968238
-      },
-      "steamid": "[U:1:1201926547]"
-    },
-    {
-      "attributes": [
-        "cheater"
-      ],
-      "last_seen": {
-        "player_name": "shineingprism19",
-        "time": 1676968415
-      },
-      "steamid": "[U:1:1201952426]"
-    },
-    {
-      "attributes": [
-        "cheater"
-      ],
-      "last_seen": {
-        "player_name": "sublimepenny",
-        "time": 1676968366
-      },
-      "steamid": "[U:1:1201997338]"
-    },
-    {
-      "attributes": [
-        "cheater"
-      ],
-      "last_seen": {
-        "player_name": "SwordManBG6",
-        "time": 1676968364
-      },
-      "steamid": "[U:1:1202004583]"
-    },
-    {
-      "attributes": [
-        "cheater"
-      ],
-      "last_seen": {
-        "player_name": "Dr Skull",
-        "time": 1676968353
-      },
-      "steamid": "[U:1:1202067165]"
-    },
-    {
-      "attributes": [
-        "cheater"
-      ],
-      "last_seen": {
-        "player_name": "Potato",
-        "time": 1676950766
-      },
-      "steamid": "[U:1:1202249806]"
-    },
-    {
-      "attributes": [
-        "cheater"
-      ],
-      "last_seen": {
-        "time": 1676968537
-      },
-      "steamid": "[U:1:1201999973]"
-    },
-    {
-      "attributes": [
-        "cheater"
-      ],
-      "last_seen": {
-        "player_name": "👽 Space Princess 👽",
-        "time": 1676968531
-      },
-      "steamid": "[U:1:1202058521]"
-    },
-    {
-      "attributes": [
-        "cheater"
-      ],
-      "last_seen": {
-        "player_name": "Gnusik2291",
-        "time": 1676968715
-      },
-      "steamid": "[U:1:1201706638]"
-    },
-    {
-      "attributes": [
-        "cheater"
-      ],
-      "last_seen": {
-        "player_name": "Rusty Robot",
-        "time": 1676968725
-      },
-      "steamid": "[U:1:1201730666]"
-    },
-    {
-      "attributes": [
-        "cheater"
-      ],
-      "last_seen": {
-        "player_name": "Commander_Raven",
-        "time": 1676968633
-      },
-      "steamid": "[U:1:1201955542]"
-    },
-    {
-      "attributes": [
-        "cheater"
-      ],
-      "last_seen": {
-        "player_name": "Pieróżki",
-        "time": 1676972253
-      },
-      "steamid": "[U:1:1201775209]"
-    },
-    {
-      "attributes": [
-        "cheater"
-      ],
-      "last_seen": {
-        "player_name": "The Devil herself",
-        "time": 1676969524
-      },
-      "steamid": "[U:1:1201812221]"
-    },
-    {
-      "attributes": [
-        "cheater"
-      ],
-      "last_seen": {
-        "player_name": "Oroben",
-        "time": 1676971919
-      },
-      "steamid": "[U:1:1202081668]"
-    },
-    {
-      "attributes": [
-        "cheater"
-      ],
-      "last_seen": {
-        "player_name": "Tirithon0079",
-        "time": 1676972335
-      },
-      "steamid": "[U:1:1201635749]"
-    },
-    {
-      "attributes": [
-        "cheater"
-      ],
-      "last_seen": {
-        "player_name": "DoesHotter",
-        "time": 1676974850
-      },
-      "steamid": "[U:1:33385974]"
-    },
-    {
-      "attributes": [
-        "cheater"
-      ],
-      "last_seen": {
-        "player_name": "(2)DoesHotter",
-        "time": 1676974820
-      },
-      "steamid": "[U:1:38515290]"
-    },
-    {
-      "attributes": [
-        "suspicious"
-      ],
-      "last_seen": {
-        "player_name": "Ponysexual Gaming",
-        "time": 1676974202
-      },
-      "steamid": "[U:1:1096598191]"
-    },
-    {
-      "attributes": [
-        "cheater"
-      ],
-      "last_seen": {
-        "player_name": "☺☻☺☻DYBALA",
-        "time": 1676974824
-      },
-      "steamid": "[U:1:1201624397]"
-    },
-    {
-      "attributes": [
-        "cheater"
-      ],
-      "last_seen": {
-        "time": 1676974889
-      },
-      "steamid": "[U:1:1201706392]"
-    },
-    {
-      "attributes": [
-        "cheater"
-      ],
-      "last_seen": {
-        "player_name": "Subaru258",
-        "time": 1676974887
-      },
-      "steamid": "[U:1:1201777675]"
-    },
-    {
-      "attributes": [
-        "cheater"
-      ],
-      "last_seen": {
-        "player_name": "2pt0",
-        "time": 1676974884
-      },
-      "steamid": "[U:1:1201789746]"
-    },
-    {
-      "attributes": [
-        "cheater"
-      ],
-      "last_seen": {
-        "player_name": "Mitlo",
-        "time": 1676974879
-      },
-      "steamid": "[U:1:1201948396]"
-    },
-    {
-      "attributes": [
-        "cheater"
-      ],
-      "last_seen": {
-        "player_name": "Awkidoo1012",
-        "time": 1676974829
-      },
-      "steamid": "[U:1:1202057169]"
-    },
-    {
-      "attributes": [
-        "cheater"
-      ],
-      "last_seen": {
-        "player_name": "Swedish Monke",
-        "time": 1676974834
-      },
-      "steamid": "[U:1:1202393333]"
-    },
-    {
-      "attributes": [
-        "cheater"
-      ],
-      "last_seen": {
-        "time": 1676975110
-      },
-      "steamid": "[U:1:1201819728]"
-    },
-    {
-      "attributes": [
-        "cheater"
-      ],
-      "last_seen": {
-        "player_name": "The Jackal",
-        "time": 1676975537
-      },
-      "steamid": "[U:1:1201849484]"
-    },
-    {
-      "attributes": [
-        "cheater"
-      ],
-      "last_seen": {
-        "player_name": "OhThatsNasty1",
-        "time": 1676975506
-      },
-      "steamid": "[U:1:1201852646]"
-    },
-    {
-      "attributes": [
-        "cheater"
-      ],
-      "last_seen": {
-        "player_name": "the financial burden of war",
-        "time": 1676975511
-      },
-      "steamid": "[U:1:1202117176]"
+      "steamid": "[U:1:1202169483]"
     }
   ]
 }
