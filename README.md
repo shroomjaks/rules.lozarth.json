@@ -23,8 +23,3 @@ Lesshook
 cRpt
 Uncletopia bots (unofficial)
 TYPICAL TF2 PLAYER
-
-### Contact
-If you would like to contact me please add me on Discord.
-
-**shrigma#1957**
